@@ -87,20 +87,24 @@
 </div>
 
 <div id="recipes">
-  <div class="recipe" data-category="家常菜 肉類">
-    <h2>香煎雞腿排</h2>
+  <div class="recipe" data-category="鹹的 肉類">
+    <h2>同學牛丸</h2>
     <div class="section-title">食材：</div>
     <ul>
-      <li>去骨雞腿排 2片</li>
-      <li>鹽 少許</li>
-      <li>黑胡椒 少許</li>
-      <li>橄欖油 1大匙</li>
+      <li>牛肉碎 500g</li>
+      <li>鹽 1茶匙</li>
+      <li>魚露 湯匙</li>
+      <li>糖 1茶匙</li>
+      <li>生粉 2茶匙</li>
+      <li>泡打粉 1茶匙</li>
+      <li>雞粉 5g</li>
+      <li> 黑椒 少許</li>
     </ul>
     <div class="section-title">步驟：</div>
     <ol>
-      <li>雞腿排用鹽和黑胡椒均勻醃10分鐘。</li>
-      <li>平底鍋加熱，放入橄欖油。</li>
-      <li>雞皮朝下小火煎至金黃，再翻面煎熟即可。</li>
+      <li>丟入廚師機。</li>
+      <li>煮熟。</li>
+      
     </ol>
   </div>
 
